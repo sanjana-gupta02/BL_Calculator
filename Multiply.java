@@ -5,8 +5,8 @@ public class Multiply {
         Scanner sc = new Scanner(System.in);
         int a= sc.nextInt();
         int b=sc.nextInt();
-        int multi = a*b;
-        System.out.println("Multiply of two numbers is: "+multi);
+        int multiple = a*b;
+        System.out.println("Multiply of two numbers is: "+multiple);
     
 }
 }
