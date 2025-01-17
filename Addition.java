@@ -8,4 +8,4 @@ public class Addition{
         System.out.println("Sum of two numbers is: "+sum);
     }
 
-}
+} 
